@@ -1,0 +1,25 @@
+.museum-background {
+  background-color: #f3ebeb;
+}
+
+.museum-floor {
+  position: fixed;
+  bottom: 0px;
+  z-index: -1;
+}
+
+.art-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.art-card {
+  background-color: #fbfbfb;
+  padding: 20px;
+  max-height: 200px;
+  box-shadow: 10px 10px 30px #b3b2b2;
+}
+
+.art-piece {
+  box-shadow: 10px 10px 30px #8c8c8c;
+}
